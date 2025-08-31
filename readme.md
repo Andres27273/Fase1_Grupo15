@@ -2,13 +2,29 @@
 
 ![Foto de Andres](AndresTenjo/Andres.jpeg)
 
-**Rol escogido:** Diseñador de Sonido.
+**Rol escogido:** Diseï¿½ador de Sonido.
 
-**Ubicación:** España
+**Ubicaciï¿½n:** Espaï¿½a
 
-Mi nombre es Andres Tenjo, tengo 24 años de edad.  
-Actualmente vivo en España y estudio Ingeniería Multimedia, además me encanta el arte y la fotografía.
+Mi nombre es Andres Tenjo, tengo 24 aï¿½os de edad.  
+Actualmente vivo en Espaï¿½a y estudio Ingenierï¿½a Multimedia, ademï¿½s me encanta el arte y la fotografï¿½a.
 
 Mi comida favorita es: La pizza.
 
 ![Amo la pizza](AndresTenjo/Pizza.jpg) 
+
+# JuliÃ¡n Camilo Tolosa SÃ¡nchez  
+
+![Foto personal](JulianTolosa/FotoJulian.jpg)  
+
+**Rol escogido:** Modelado 3D  
+
+**UbicaciÃ³n:** CajicÃ¡, Colombia  
+
+Mi nombre es JuliÃ¡n Camilo Tolosa, tengo 23 aÃ±os y estudio IngenierÃ­a Multimedia, Trabajo en prensa y comunicaciones en Bogota, Hago reportajes, diseÃ±o grÃ¡fico, y animaciÃ³n 2D.Â 
+Mi hobby es crear mÃºsica, Dj, tomar fotografias, volar drone.
+me gusta el deporte.
+
+Mi comida favorita es el: Sushi 
+
+![Comida favorita](JulianTolosa/sushii.jpg)
