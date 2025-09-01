@@ -31,7 +31,7 @@ Mi comida favorita es el: Sushi
 
 # Catalina Sánchez
 
-![Foto de Catalina](CatalinaSanchez/FotoKta.jpeg)
+![Foto de Catalina](CatalinaSanchez/FotoKta.jpg)
 
 **Rol escogido:** Diseñador UI/UX
 
@@ -41,4 +41,4 @@ Mi nombre es Catalina Sánchez, tengo 36 años; Soy Productora Multimedia y actu
 
 Mi comida favorita: Bandeja Paisa.
 
-![Comida Favorita](CatalinaSanchez/BandejaPaisa.jpg)
+![Comida Favorita](CatalinaSanchez/BandejaPaisa.jpeg)
