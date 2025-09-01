@@ -31,7 +31,7 @@ Mi comida favorita es el: Sushi
 
 # Catalina Sánchez
 
-![Foto de Catalina](CatalinaSanchez/Kta.jpeg)
+![Foto de Catalina](CatalinaSanchez/FotoKta.jpeg)
 
 **Rol escogido:** Diseñador UI/UX
 
