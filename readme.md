@@ -28,3 +28,17 @@ me gusta el deporte.
 Mi comida favorita es el: Sushi 
 
 ![Comida favorita](JulianTolosa/sushii.jpg)
+
+# Catalina Sánchez
+
+![Foto de Catalina](CatalinaSanchez/Kta.jpeg)
+
+**Rol escogido:** Diseñador UI/UX
+
+**Ubicación:** Bogotá,Colombia
+
+Mi nombre es Catalina Sánchez, tengo 36 años; Soy Productora Multimedia y actualmente estudio Ingeniería Multimedía, me gusta entrenar en el Gym, estudiar, cocinar y compartir tiempo con mis dos hijos.
+
+Mi comida favorita: Bandeja Paisa.
+
+![Comida Favorita](CatalinaSanchez/BandejaPaisa.jpg)
